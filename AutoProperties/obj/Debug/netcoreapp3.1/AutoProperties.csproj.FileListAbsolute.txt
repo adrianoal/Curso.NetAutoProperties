@@ -1,0 +1,13 @@
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.exe
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.deps.json
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.json
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.runtimeconfig.dev.json
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.dll
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\bin\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csprojAssemblyReference.cache
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.csproj.CoreCompileInputs.cache
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfoInputs.cache
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.AssemblyInfo.cs
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.dll
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.pdb
+C:\Users\aalima5\Desktop\Code C#\AutoProperties\AutoProperties\obj\Debug\netcoreapp3.1\AutoProperties.genruntimeconfig.cache
